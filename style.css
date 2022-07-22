@@ -48,8 +48,9 @@ body {
 .card-title {
     color: hsl(212, 21%, 14%);;
     font-family: 'Fraunces', serif;
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     line-height: 2.4rem;
+    font-weight: 700;
 }
 
 .card-description {
@@ -64,7 +65,8 @@ body {
 .card-price {
     color: hsl(158, 36%, 37%);
     font-family: 'Fraunces', serif;
-    font-size: 2.5rem;
+    font-size: 2rem;
+    font-weight: 700;
 }
 
 .card-old-price {
